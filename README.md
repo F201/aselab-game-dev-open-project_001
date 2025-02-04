@@ -2,7 +2,7 @@
 
 Sebuah open source game yang dirancang oleh anggota dari ASE Lab.
 
-[Memorias Oblitus](https://github.com/user-attachments/assets/387ce11e-ba50-4b9c-9f4f-b4ea3c46fc70)
+![Memorias Oblitus](https://github.com/user-attachments/assets/387ce11e-ba50-4b9c-9f4f-b4ea3c46fc70)
 
 ## Tentang Kami
 Memorias Oblitus adalah game bergenre procedural rouge-like, dengan tambahan unsur RPG sehingga pemain dapat melakukan eksplorasi dan mencari item bagus. Namun, jika pemain mati maka item tersebut akan hilang.
@@ -26,7 +26,7 @@ Quest yang ada tidak hanya akan berisi permintaan untuk aset, script, dan juga p
 
 ### 💡📝Game Design📝💡
 
-Jika kalian ingin berkontribusi kepada desain dari game, maka kalian bisa berkontribusi dengan cara memberikan masukan kepada project itu sendiri dan memberikan ide. Contohnya adalah memberikan masukan kepada design document project ini, dan mengambil quest atau memberikan komentar pada quest yang ada pada [Quest Board](https://github.com/orgs/F201/projects/9). Selain itu, kalian juga bisa membuka issue baru pada [issues](https://github.com/F201/aselab-game-dev-open-project_001/issues) jika mendapatkan ketidakjelasan pada design document atau project itu sendiri.
+Kalian bisa membantu dalam mengembangkan game design kami menjadi lebih baik. Kami membutuhkan ide-ide kreatif kalian untuk membuat game ini menjadi lebih baik dan keaktifan kalian dalam berdiskusi pada open discussion yang ada pada quest. Kalian bisa memberikan masukan terhadap pekerjaan yang sudah dilakukan pada project ini melalui quest-quest yang ada melalui comment dari quest. Selain itu, kalian juga bisa menambahkan issue baru jika terdapat informasi yang kurang atau perlu diperbaiki pada game design ataupun hasil implementasi dari game.
 
 Cara kontribusi selengkapnya bisa kalian baca pada wiki.
 
