@@ -24,22 +24,26 @@ Jika kalian ingin berkontribusi pada quest, kalian bisa mencantumkan komentar da
 
 Quest yang ada tidak hanya akan berisi permintaan untuk aset, script, dan juga perbaikan bug. Quest juga akan berisi open discussion terkait ide dan pengerjaan dari project, yang dimana kalian bisa berkontribusi dengan mencantumkan komentar pada quest.
 
+[Baca technical design document untuk mengetahui lebih detail terkait game ini](https://github.com/F201/aselab-game-dev-open-project_001/wiki/Technical-Design-Document)
+
 ### 💡📝Game Design📝💡
 
-Kalian bisa membantu dalam mengembangkan game design kami menjadi lebih baik. Kami membutuhkan ide-ide kreatif kalian untuk membuat game ini menjadi lebih baik dan keaktifan kalian dalam berdiskusi pada open discussion yang ada pada quest. Kalian bisa memberikan masukan terhadap pekerjaan yang sudah dilakukan pada project ini melalui quest-quest yang ada melalui comment dari quest. Selain itu, kalian juga bisa menambahkan issue baru jika terdapat informasi yang kurang atau perlu diperbaiki pada game design ataupun hasil implementasi dari game.
+Kalian bisa membantu dalam mengembangkan game design kami menjadi lebih baik. Kami membutuhkan ide-ide kreatif kalian untuk membuat game ini menjadi lebih baik dan keaktifan kalian dalam berdiskusi pada open discussion yang ada pada quest. Kalian bisa memberikan masukan terhadap pekerjaan yang sudah dilakukan pada project ini melalui quest-quest yang ada melalui comment dari quest. Selain itu, kalian juga bisa menambahkan issue baru jika terdapat informasi yang kurang atau perlu diperbaiki pada [game design](https://github.com/F201/aselab-game-dev-open-project_001/wiki/Technical-Design-Document) ataupun hasil implementasi dari game.
 
-Cara kontribusi selengkapnya bisa kalian baca pada wiki.
+[Baca cara kontribusi kepada game design selengkapnya.](https://github.com/F201/aselab-game-dev-open-project_001/wiki/Kontribusi-untuk-Game-Design)
 
 ### 🎨🎵Game Assets🎵🎨
 
 Kalian bisa membuat aset grafis atau audio untuk game, seperti ilustrasi, 2D, model 3D, background music, ataupun sound effect. Kami sangat membutuhkan kreativitas kalian demi membangun game ini menjadi sebuah game yang konkret. Kami tidak menuntut untuk aset yang dibuat sangatlah bagus dan berkualitas, bantuan dari kalian sangatlah berharga bagi kami.
 
-Cara kontribusi selengkapnya bisa kalian baca pada wiki.
+[Baca cara kontribusi kepada game assets selengkapnya.](https://github.com/F201/aselab-game-dev-open-project_001/wiki/Kontribusi-untuk-Game-Assets)
 
 ### ⚙️🎮Game Program🎮⚙️
 
 Kalian bebas berkontribusi kepada program project, bisa dengan menambah fitur, memperbaiki bug, dan memperbaiki kode sehingga lebih clean untuk tim. Yang terpenting adalah tetap mengikuti design pattern dan codestyle yang telah ditentukan.
 Cara kontribusi selengkapnya bisa kalian baca pada wiki.
+
+[Baca cara kontribusi kepada game program selengkapnya.](https://github.com/F201/aselab-game-dev-open-project_001/wiki/Kontribusi-untuk-Game-Program)
 
 ## Game Engine yang digunakan
 
