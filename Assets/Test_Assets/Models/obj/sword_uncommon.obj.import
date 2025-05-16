@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bppexg7rbfjkv"
+path="res://.godot/imported/sword_uncommon.obj-1bd39be9e5c143fb267de24af298e521.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sword_uncommon.obj-1bd39be9e5c143fb267de24af298e521.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/sword_uncommon.obj"
+dest_files=["res://.godot/imported/sword_uncommon.obj-1bd39be9e5c143fb267de24af298e521.mesh", "res://.godot/imported/sword_uncommon.obj-1bd39be9e5c143fb267de24af298e521.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

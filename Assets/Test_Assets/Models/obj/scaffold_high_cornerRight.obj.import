@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bchj34164kfhm"
+path="res://.godot/imported/scaffold_high_cornerRight.obj-ed5c21bedc71c4a49850937950891afb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/scaffold_high_cornerRight.obj-ed5c21bedc71c4a49850937950891afb.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/scaffold_high_cornerRight.obj"
+dest_files=["res://.godot/imported/scaffold_high_cornerRight.obj-ed5c21bedc71c4a49850937950891afb.mesh", "res://.godot/imported/scaffold_high_cornerRight.obj-ed5c21bedc71c4a49850937950891afb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

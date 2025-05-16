@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bu6cul220c5m"
+path="res://.godot/imported/rogueHairA.obj-428bff2cffb75e179523fee4b342e503.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rogueHairA.obj-428bff2cffb75e179523fee4b342e503.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/extra heads/rogueHairA.obj"
+dest_files=["res://.godot/imported/rogueHairA.obj-428bff2cffb75e179523fee4b342e503.mesh", "res://.godot/imported/rogueHairA.obj-428bff2cffb75e179523fee4b342e503.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

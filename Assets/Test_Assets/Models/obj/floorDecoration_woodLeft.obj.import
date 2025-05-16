@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bpnm26cgucpfh"
+path="res://.godot/imported/floorDecoration_woodLeft.obj-05990fa35408b734eb51a5676a77cbbd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floorDecoration_woodLeft.obj-05990fa35408b734eb51a5676a77cbbd.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/floorDecoration_woodLeft.obj"
+dest_files=["res://.godot/imported/floorDecoration_woodLeft.obj-05990fa35408b734eb51a5676a77cbbd.mesh", "res://.godot/imported/floorDecoration_woodLeft.obj-05990fa35408b734eb51a5676a77cbbd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

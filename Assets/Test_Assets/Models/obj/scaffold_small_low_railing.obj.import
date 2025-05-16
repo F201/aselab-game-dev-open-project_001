@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cs8sl2ufityq2"
+path="res://.godot/imported/scaffold_small_low_railing.obj-6925736f9201d25d457062b04cb01f87.mesh"
+
+[deps]
+
+files=["res://.godot/imported/scaffold_small_low_railing.obj-6925736f9201d25d457062b04cb01f87.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/scaffold_small_low_railing.obj"
+dest_files=["res://.godot/imported/scaffold_small_low_railing.obj-6925736f9201d25d457062b04cb01f87.mesh", "res://.godot/imported/scaffold_small_low_railing.obj-6925736f9201d25d457062b04cb01f87.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

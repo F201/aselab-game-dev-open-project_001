@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ci5qtvtemkumm"
+path="res://.godot/imported/mageHeadA.obj-daba287cbf129e41e38c69aecf28e084.mesh"
+
+[deps]
+
+files=["res://.godot/imported/mageHeadA.obj-daba287cbf129e41e38c69aecf28e084.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/extra heads/mageHeadA.obj"
+dest_files=["res://.godot/imported/mageHeadA.obj-daba287cbf129e41e38c69aecf28e084.mesh", "res://.godot/imported/mageHeadA.obj-daba287cbf129e41e38c69aecf28e084.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

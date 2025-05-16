@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d05tk0pdp4cu5"
+path="res://.godot/imported/character_mageBody.obj-f5f21999e174ca3690b9554764ee9b94.mesh"
+
+[deps]
+
+files=["res://.godot/imported/character_mageBody.obj-f5f21999e174ca3690b9554764ee9b94.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/character_mageBody.obj"
+dest_files=["res://.godot/imported/character_mageBody.obj-f5f21999e174ca3690b9554764ee9b94.mesh", "res://.godot/imported/character_mageBody.obj-f5f21999e174ca3690b9554764ee9b94.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

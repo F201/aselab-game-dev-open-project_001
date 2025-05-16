@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bpyydsm737pto"
+path="res://.godot/imported/crossbow_rare.obj-c9b1938250ec60dc26bdf380a2954d1e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crossbow_rare.obj-c9b1938250ec60dc26bdf380a2954d1e.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/crossbow_rare.obj"
+dest_files=["res://.godot/imported/crossbow_rare.obj-c9b1938250ec60dc26bdf380a2954d1e.mesh", "res://.godot/imported/crossbow_rare.obj-c9b1938250ec60dc26bdf380a2954d1e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

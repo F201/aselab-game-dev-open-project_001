@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byhwa7d507ils"
+path="res://.godot/imported/hammer_uncommon.obj-61c20856d32ab22cf14af2e7db240ad0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hammer_uncommon.obj-61c20856d32ab22cf14af2e7db240ad0.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/hammer_uncommon.obj"
+dest_files=["res://.godot/imported/hammer_uncommon.obj-61c20856d32ab22cf14af2e7db240ad0.mesh", "res://.godot/imported/hammer_uncommon.obj-61c20856d32ab22cf14af2e7db240ad0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bea167nhpjws8"
+path="res://.godot/imported/sword_rare.obj-00ca624663a19dbda599476b89b1ae8c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sword_rare.obj-00ca624663a19dbda599476b89b1ae8c.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/sword_rare.obj"
+dest_files=["res://.godot/imported/sword_rare.obj-00ca624663a19dbda599476b89b1ae8c.mesh", "res://.godot/imported/sword_rare.obj-00ca624663a19dbda599476b89b1ae8c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

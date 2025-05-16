@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cc7wvs17dhw52"
+path="res://.godot/imported/tileBrickA_medium.obj-c91784ec3767bdbfcc8c4853d1ec194b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tileBrickA_medium.obj-c91784ec3767bdbfcc8c4853d1ec194b.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/tileBrickA_medium.obj"
+dest_files=["res://.godot/imported/tileBrickA_medium.obj-c91784ec3767bdbfcc8c4853d1ec194b.mesh", "res://.godot/imported/tileBrickA_medium.obj-c91784ec3767bdbfcc8c4853d1ec194b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

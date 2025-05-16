@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cip5b2ndm3iib"
+path="res://.godot/imported/potionSmall_blue.obj-11c56384d65a9c65cd3c64fc99463dd0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/potionSmall_blue.obj-11c56384d65a9c65cd3c64fc99463dd0.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/potionSmall_blue.obj"
+dest_files=["res://.godot/imported/potionSmall_blue.obj-11c56384d65a9c65cd3c64fc99463dd0.mesh", "res://.godot/imported/potionSmall_blue.obj-11c56384d65a9c65cd3c64fc99463dd0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

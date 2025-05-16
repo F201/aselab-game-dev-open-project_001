@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drobxx13kqdbo"
+path="res://.godot/imported/dagger_rare.obj-c678193c7723d6d2770436511f162414.mesh"
+
+[deps]
+
+files=["res://.godot/imported/dagger_rare.obj-c678193c7723d6d2770436511f162414.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/dagger_rare.obj"
+dest_files=["res://.godot/imported/dagger_rare.obj-c678193c7723d6d2770436511f162414.mesh", "res://.godot/imported/dagger_rare.obj-c678193c7723d6d2770436511f162414.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

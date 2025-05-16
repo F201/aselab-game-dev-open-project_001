@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7yspxsibc1d0"
+path="res://.godot/imported/lootSackA.obj-4414b25d4e50381ee2cc660fdf5249bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/lootSackA.obj-4414b25d4e50381ee2cc660fdf5249bf.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/lootSackA.obj"
+dest_files=["res://.godot/imported/lootSackA.obj-4414b25d4e50381ee2cc660fdf5249bf.mesh", "res://.godot/imported/lootSackA.obj-4414b25d4e50381ee2cc660fdf5249bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

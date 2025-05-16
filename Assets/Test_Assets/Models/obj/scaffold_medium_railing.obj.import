@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ckw1nm04f1c56"
+path="res://.godot/imported/scaffold_medium_railing.obj-c830f68385ea86a4b418a2a542a87b15.mesh"
+
+[deps]
+
+files=["res://.godot/imported/scaffold_medium_railing.obj-c830f68385ea86a4b418a2a542a87b15.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/scaffold_medium_railing.obj"
+dest_files=["res://.godot/imported/scaffold_medium_railing.obj-c830f68385ea86a4b418a2a542a87b15.mesh", "res://.godot/imported/scaffold_medium_railing.obj-c830f68385ea86a4b418a2a542a87b15.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

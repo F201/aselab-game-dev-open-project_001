@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgffenmmo404w"
+path="res://.godot/imported/staff_common.obj-b0f4a0038daa816d5601323b966c2539.mesh"
+
+[deps]
+
+files=["res://.godot/imported/staff_common.obj-b0f4a0038daa816d5601323b966c2539.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/staff_common.obj"
+dest_files=["res://.godot/imported/staff_common.obj-b0f4a0038daa816d5601323b966c2539.mesh", "res://.godot/imported/staff_common.obj-b0f4a0038daa816d5601323b966c2539.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
