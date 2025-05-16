@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dr53w0n2e7j0l"
+path="res://.godot/imported/crossbow_common.obj-721194f656499fc1396a5b547ecee40a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crossbow_common.obj-721194f656499fc1396a5b547ecee40a.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/crossbow_common.obj"
+dest_files=["res://.godot/imported/crossbow_common.obj-721194f656499fc1396a5b547ecee40a.mesh", "res://.godot/imported/crossbow_common.obj-721194f656499fc1396a5b547ecee40a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

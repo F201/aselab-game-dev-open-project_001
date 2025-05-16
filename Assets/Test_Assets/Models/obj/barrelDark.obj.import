@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bcc7ovrkr02ko"
+path="res://.godot/imported/barrelDark.obj-d5eb00dfa274f4ec41b0f424c33c2aaf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/barrelDark.obj-d5eb00dfa274f4ec41b0f424c33c2aaf.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/barrelDark.obj"
+dest_files=["res://.godot/imported/barrelDark.obj-d5eb00dfa274f4ec41b0f424c33c2aaf.mesh", "res://.godot/imported/barrelDark.obj-d5eb00dfa274f4ec41b0f424c33c2aaf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

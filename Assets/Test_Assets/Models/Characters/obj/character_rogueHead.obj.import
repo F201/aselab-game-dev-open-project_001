@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b0sh2a3d3ns3k"
+path="res://.godot/imported/character_rogueHead.obj-d2777fc13c698e55261fe0b0eb9e127d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/character_rogueHead.obj-d2777fc13c698e55261fe0b0eb9e127d.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/character_rogueHead.obj"
+dest_files=["res://.godot/imported/character_rogueHead.obj-d2777fc13c698e55261fe0b0eb9e127d.mesh", "res://.godot/imported/character_rogueHead.obj-d2777fc13c698e55261fe0b0eb9e127d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

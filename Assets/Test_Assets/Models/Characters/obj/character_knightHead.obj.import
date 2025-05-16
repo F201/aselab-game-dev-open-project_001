@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fw4j0fce8iw0"
+path="res://.godot/imported/character_knightHead.obj-d77ee066d469b59a21a218ab1cbaff15.mesh"
+
+[deps]
+
+files=["res://.godot/imported/character_knightHead.obj-d77ee066d469b59a21a218ab1cbaff15.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/character_knightHead.obj"
+dest_files=["res://.godot/imported/character_knightHead.obj-d77ee066d469b59a21a218ab1cbaff15.mesh", "res://.godot/imported/character_knightHead.obj-d77ee066d469b59a21a218ab1cbaff15.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

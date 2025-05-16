@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csd0tqakv6hx"
+path="res://.godot/imported/scaffold_medium_cornerBoth.obj-0f74cd582cdbb00bad5c1c6730243e55.mesh"
+
+[deps]
+
+files=["res://.godot/imported/scaffold_medium_cornerBoth.obj-0f74cd582cdbb00bad5c1c6730243e55.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/scaffold_medium_cornerBoth.obj"
+dest_files=["res://.godot/imported/scaffold_medium_cornerBoth.obj-0f74cd582cdbb00bad5c1c6730243e55.mesh", "res://.godot/imported/scaffold_medium_cornerBoth.obj-0f74cd582cdbb00bad5c1c6730243e55.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

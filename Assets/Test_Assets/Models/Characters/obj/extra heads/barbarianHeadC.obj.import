@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bod7v2hb6hjhe"
+path="res://.godot/imported/barbarianHeadC.obj-9901713b938bec818bbf8cb9c310c9a3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/barbarianHeadC.obj-9901713b938bec818bbf8cb9c310c9a3.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/extra heads/barbarianHeadC.obj"
+dest_files=["res://.godot/imported/barbarianHeadC.obj-9901713b938bec818bbf8cb9c310c9a3.mesh", "res://.godot/imported/barbarianHeadC.obj-9901713b938bec818bbf8cb9c310c9a3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

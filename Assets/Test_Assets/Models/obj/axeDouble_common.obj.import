@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7qh7j2n265pe"
+path="res://.godot/imported/axeDouble_common.obj-65663d7c7d23a49bf1e112768e8dbe92.mesh"
+
+[deps]
+
+files=["res://.godot/imported/axeDouble_common.obj-65663d7c7d23a49bf1e112768e8dbe92.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/axeDouble_common.obj"
+dest_files=["res://.godot/imported/axeDouble_common.obj-65663d7c7d23a49bf1e112768e8dbe92.mesh", "res://.godot/imported/axeDouble_common.obj-65663d7c7d23a49bf1e112768e8dbe92.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

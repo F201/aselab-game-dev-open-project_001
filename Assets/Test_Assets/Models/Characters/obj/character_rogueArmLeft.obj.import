@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ctfmlb2crdvwr"
+path="res://.godot/imported/character_rogueArmLeft.obj-ccd964ca96c9f6fa51b1d9930d92f29b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/character_rogueArmLeft.obj-ccd964ca96c9f6fa51b1d9930d92f29b.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/Characters/obj/character_rogueArmLeft.obj"
+dest_files=["res://.godot/imported/character_rogueArmLeft.obj-ccd964ca96c9f6fa51b1d9930d92f29b.mesh", "res://.godot/imported/character_rogueArmLeft.obj-ccd964ca96c9f6fa51b1d9930d92f29b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

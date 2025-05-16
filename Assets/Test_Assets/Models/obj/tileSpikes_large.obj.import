@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g78tpunw8ieb"
+path="res://.godot/imported/tileSpikes_large.obj-92c4ce942f9cdee6bb28d827581f131a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tileSpikes_large.obj-92c4ce942f9cdee6bb28d827581f131a.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/tileSpikes_large.obj"
+dest_files=["res://.godot/imported/tileSpikes_large.obj-92c4ce942f9cdee6bb28d827581f131a.mesh", "res://.godot/imported/tileSpikes_large.obj-92c4ce942f9cdee6bb28d827581f131a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

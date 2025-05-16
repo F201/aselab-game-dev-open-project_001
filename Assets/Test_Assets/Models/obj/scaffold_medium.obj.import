@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cadg7kyolv5mu"
+path="res://.godot/imported/scaffold_medium.obj-7ec07a30a5e90410c7afb744943ed696.mesh"
+
+[deps]
+
+files=["res://.godot/imported/scaffold_medium.obj-7ec07a30a5e90410c7afb744943ed696.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/scaffold_medium.obj"
+dest_files=["res://.godot/imported/scaffold_medium.obj-7ec07a30a5e90410c7afb744943ed696.mesh", "res://.godot/imported/scaffold_medium.obj-7ec07a30a5e90410c7afb744943ed696.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

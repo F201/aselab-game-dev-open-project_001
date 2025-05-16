@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ebrujf5v36gt"
+path="res://.godot/imported/bookcase_broken.obj-c08624daf5242c7b23602b1e33d5b890.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bookcase_broken.obj-c08624daf5242c7b23602b1e33d5b890.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/bookcase_broken.obj"
+dest_files=["res://.godot/imported/bookcase_broken.obj-c08624daf5242c7b23602b1e33d5b890.mesh", "res://.godot/imported/bookcase_broken.obj-c08624daf5242c7b23602b1e33d5b890.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

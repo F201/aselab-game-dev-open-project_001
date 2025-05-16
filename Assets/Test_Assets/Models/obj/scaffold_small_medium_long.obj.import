@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0p7exqxfijya"
+path="res://.godot/imported/scaffold_small_medium_long.obj-2542f417c6dfaf7cb86fe9dc9e532fa3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/scaffold_small_medium_long.obj-2542f417c6dfaf7cb86fe9dc9e532fa3.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/scaffold_small_medium_long.obj"
+dest_files=["res://.godot/imported/scaffold_small_medium_long.obj-2542f417c6dfaf7cb86fe9dc9e532fa3.mesh", "res://.godot/imported/scaffold_small_medium_long.obj-2542f417c6dfaf7cb86fe9dc9e532fa3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

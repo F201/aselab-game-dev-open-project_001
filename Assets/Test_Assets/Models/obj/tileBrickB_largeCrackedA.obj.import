@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5glfokmukjdi"
+path="res://.godot/imported/tileBrickB_largeCrackedA.obj-71cc7ddf895c5beb4b8dbbcff100a35b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tileBrickB_largeCrackedA.obj-71cc7ddf895c5beb4b8dbbcff100a35b.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/tileBrickB_largeCrackedA.obj"
+dest_files=["res://.godot/imported/tileBrickB_largeCrackedA.obj-71cc7ddf895c5beb4b8dbbcff100a35b.mesh", "res://.godot/imported/tileBrickB_largeCrackedA.obj-71cc7ddf895c5beb4b8dbbcff100a35b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4j008rbkab3k"
+path="res://.godot/imported/axeDouble_rare.obj-98683397eb797052ba6399e5071bde6b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/axeDouble_rare.obj-98683397eb797052ba6399e5071bde6b.mesh"]
+
+source_file="res://Assets/Test_Assets/Models/obj/axeDouble_rare.obj"
+dest_files=["res://.godot/imported/axeDouble_rare.obj-98683397eb797052ba6399e5071bde6b.mesh", "res://.godot/imported/axeDouble_rare.obj-98683397eb797052ba6399e5071bde6b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
