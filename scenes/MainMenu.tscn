@@ -1,0 +1,113 @@
+[gd_scene load_steps=6 format=3 uid="uid://bgw4opnyf105u"]
+
+[ext_resource type="Script" path="res://Script/main_menu.gd" id="1_cs2w0"]
+[ext_resource type="Texture2D" uid="uid://d2fcmredt15d3" path="res://Assets/IMG/illust.png" id="1_qccch"]
+[ext_resource type="Texture2D" uid="uid://b3jbqns6qf4x3" path="res://Assets/IMG/Ase.jpeg" id="2_quxwc"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_tqvn0"]
+texture = ExtResource("1_qccch")
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_liugw"]
+texture = ExtResource("2_quxwc")
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_cs2w0")
+
+[node name="IllustPanel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 11
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -448.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_tqvn0")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+offset_left = 64.0
+offset_top = 80.0
+offset_right = 256.0
+offset_bottom = 224.0
+theme_override_styles/panel = SubResource("StyleBoxTexture_liugw")
+
+[node name="Logo" type="Label" parent="."]
+layout_mode = 0
+offset_left = 192.0
+offset_top = 120.0
+offset_right = 467.0
+offset_bottom = 193.0
+theme_type_variation = &"HeaderLarge"
+theme_override_font_sizes/font_size = 50
+text = "Logo"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Version" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 64.0
+offset_top = -128.0
+offset_right = 374.0
+offset_bottom = -55.0
+grow_vertical = 0
+theme_type_variation = &"HeaderLarge"
+theme_override_font_sizes/font_size = 25
+text = "Version 1.0.4 (18/05/2025)
+"
+vertical_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 64.0
+offset_top = -36.0
+offset_right = 408.0
+offset_bottom = 116.0
+grow_vertical = 2
+theme_override_constants/separation = 5
+
+[node name="ButtonContinue" type="Button" parent="VBoxContainer"]
+custom_minimum_size = Vector2(10, 15)
+layout_mode = 2
+size_flags_vertical = 3
+text = "Continue
+"
+alignment = 0
+
+[node name="ButtonNewGame" type="Button" parent="VBoxContainer"]
+custom_minimum_size = Vector2(10, 15)
+layout_mode = 2
+size_flags_vertical = 3
+text = "New Game"
+alignment = 0
+
+[node name="ButtonOptions" type="Button" parent="VBoxContainer"]
+custom_minimum_size = Vector2(10, 15)
+layout_mode = 2
+size_flags_vertical = 3
+text = "Options"
+alignment = 0
+
+[node name="ButtonExit" type="Button" parent="VBoxContainer"]
+custom_minimum_size = Vector2(10, 15)
+layout_mode = 2
+size_flags_vertical = 3
+text = "Exit"
+alignment = 0
+
+[connection signal="pressed" from="VBoxContainer/ButtonContinue" to="." method="_on_button_continue_pressed"]
+[connection signal="pressed" from="VBoxContainer/ButtonNewGame" to="." method="_on_button_new_game_pressed"]
+[connection signal="pressed" from="VBoxContainer/ButtonOptions" to="." method="_on_button_options_pressed"]
+[connection signal="pressed" from="VBoxContainer/ButtonExit" to="." method="_on_button_exit_pressed"]
