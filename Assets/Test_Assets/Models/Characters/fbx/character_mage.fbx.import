@@ -31,7 +31,28 @@ animation/trimming=true
 animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
-_subresources={}
+_subresources={
+"nodes": {
+"PATH:character_mageBody": {
+"generate/physics": true
+},
+"PATH:character_mageBody/character_mageArmRight": {
+"generate/physics": true
+},
+"PATH:character_mageBody/character_mageArnLeft": {
+"generate/physics": true
+},
+"PATH:character_mageBody/character_mageHead": {
+"generate/physics": true
+},
+"PATH:character_mageBody/character_mageHead/character_mageHair": {
+"generate/physics": true
+},
+"PATH:character_mageBody/character_mageHead/character_mageHat": {
+"generate/physics": true
+}
+}
+}
 fbx/importer=0
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1
